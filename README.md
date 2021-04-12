@@ -16,7 +16,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Adem68">
+<a href="https://github.com/yeg2799">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yeg2799&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="yeg2799"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeg2799&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="yeg2799"/>
 </a>
