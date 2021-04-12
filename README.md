@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Developer (21y) from Adana</h3>
+<h3 align="center">Frontend Developer (21y) from Adana</h3>
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yeg2799/count.svg" />
+</p>
 
 ### 🛠 Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React Js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react.js)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?logo=react&logoColor=#10D7F5)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
@@ -25,8 +30,8 @@
 ### 🤝🏻 Social
 
 <p align="left">
-<a href="https://twitter.com/emrex99" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/_emrguzel_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-#9F32C6?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a  href="https://www.instagram.com/_emrguzel_/"><img src="https://img.shields.io/badge/INSTAGRAM -%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emre-güzel-6bb4101a2//"><img src="https://img.shields.io/badge/LINKEDIN -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
 
