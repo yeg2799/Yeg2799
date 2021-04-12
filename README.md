@@ -26,7 +26,7 @@
 
 <p align="left">
 <a href="https://twitter.com/emrex99" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/_emrguzel_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_emrguzel_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-#9F32C6?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 
 
 
