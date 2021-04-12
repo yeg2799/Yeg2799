@@ -29,4 +29,4 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/	q55sdvs5mwxpk498m4ufydwq7)
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/q55sdvs5mwxpk498m4ufydwq7)
