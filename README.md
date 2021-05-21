@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Frontend Developer (21y) from Adana</h3>
+<h3 align="center">Frontend Developer (22y) from Adana</h3>
 
 <p> 
   Visitor count<br>
