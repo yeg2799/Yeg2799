@@ -1,37 +1,28 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Frontend Developer (25y) from Adana</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emre Guzel
+==================================================================================================================================
 
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yeg2799/count.svg" />
-</p>
+Frontend Developer
+------------------
 
-### 🛠 Tech Stack
+* 🌍  I'm based in Turkiye
+* 🖥️  See my portfolio at [My Portfolio](http://www.emreguzel.com/)
+* ✉️  You can contact me at [yeg2799@gmail.com](mailto:yeg2799@gmail.com)
+* 🚀  I'm currently working on [YegCode](http://www.yegcode.com/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?logo=react&logoColor=#10D7F5)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### Skills
 
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/yeg2799">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yeg2799&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="yeg2799"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeg2799&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="yeg2799"/>
-</a>
-</p>
-
-### 🤝🏻 Social
 
 <p align="left">
-<a  href="https://www.instagram.com/_emrguzel_/"><img src="https://img.shields.io/badge/INSTAGRAM -%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/emre-güzel-6bb4101a2//"><img src="https://img.shields.io/badge/LINKEDIN -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/yeg2799" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/emre-güzel-6bb4101a2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@yeg2799" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yeg2799"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeg2799&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
